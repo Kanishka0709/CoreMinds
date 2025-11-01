@@ -1,5 +1,10 @@
+com\nice\avishkar\RouteOptimizerTest.class
 com\nice\avishkar\TravelOptimizerImpl.class
+com\nice\avishkar\HuggingFaceClient.class
 com\nice\avishkar\Route.class
 com\nice\avishkar\ITravelOptimizer.class
+com\nice\avishkar\TravelOptimizerImpl$Request.class
 com\nice\avishkar\ResourceInfo.class
+com\nice\avishkar\TravelOptimizerImpl$1State.class
 com\nice\avishkar\OptimalTravelSchedule.class
+com\nice\avishkar\TravelOptimizerImpl$Schedule.class
